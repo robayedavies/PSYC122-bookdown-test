@@ -1,0 +1,8 @@
+intro
+week-8-related-samples-t-tests-plotting-means-and-se-bars
+pre-lab-work-online-tutorial
+calculating-means-and-ses
+running-related-samples-t-tests
+plotting-the-means-and-ses
+saving-your-work
+answers
