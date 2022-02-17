@@ -10,6 +10,7 @@ output:
 # Week 8: Related-samples t-tests, plotting means and SE bars
 
 make a change again
+now change
 
 > Written by Tom Beesley & John Towse
 

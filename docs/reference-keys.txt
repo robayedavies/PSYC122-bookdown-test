@@ -6,3 +6,6 @@ running-related-samples-t-tests
 plotting-the-means-and-ses
 saving-your-work
 answers
+week-test
+r-markdown
+including-plots
