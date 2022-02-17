@@ -9,3 +9,4 @@ answers
 week-test
 r-markdown
 including-plots
+new-section

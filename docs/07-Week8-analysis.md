@@ -12,6 +12,8 @@ output:
 make a change again
 now change
 
+# new section
+
 > Written by Tom Beesley & John Towse
 
 Today we will take a look at summarising means and standard errors (SEs) from our data. We will look at how we plot these together on the one graph (using `ggplot()` commands that allow us to share mappings between different geoms0. We will explore our data on the famous “Stroop Task” and we will use a related-samples t-test to examine the differences between the means of our different conditions in this task. 
