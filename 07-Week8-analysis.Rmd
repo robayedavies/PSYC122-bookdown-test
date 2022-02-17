@@ -18,7 +18,7 @@ data %>%
 
 # Week 8: Related-samples t-tests, plotting means and SE bars
 
-make a change
+make a change again
 
 > Written by Tom Beesley & John Towse
 
